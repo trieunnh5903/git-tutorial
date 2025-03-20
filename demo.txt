@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 commnet in main branch
 sencond main comment 1
+=======
+this is new main text
+>>>>>>> new-main
